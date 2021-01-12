@@ -1,0 +1,90 @@
+body{
+    width: 700px;
+    height: 600px;
+    margin: auto;
+   
+
+
+}
+div .restartbut{
+    text-align: center;
+    margin-left:240px;
+    font-size: 45px;
+    background-color: rgb(2, 2, 2);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    padding: 0 22px;
+
+    
+}
+
+.restartbut:hover{
+    background-color: white;
+    color: black;
+}
+footer {
+
+	flex-direction: column;
+	align-items: center;
+	margin: 3em 0;
+}
+
+footer p {
+	margin: 0;
+	padding: 0;
+	height: 1.5em;
+	font-size: .75em;
+    color: rgba(5, 4, 4, 0.4);
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.container{
+    margin-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(252, 246, 185);
+    border-radius: 10px;
+    margin: 20px;
+    
+}
+
+.boxess:hover{
+    background-color: rgb(229, 245, 186);
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Bungee', cursive;
+
+}
+
+
+
+.messagebox{
+    margin-left: 110px;
+    margin-top: 10px;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bolder;
+    font-size: 25px;
+}
+table {
+    margin-left: 110px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    
+}
+
+
+
+.boxess{
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bolder;
+    cursor: pointer;
+}
